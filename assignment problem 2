@@ -8,3 +8,8 @@ input_str = 'Edyoda'
 
 if __name__ == "__main__":
     print('Reverse String using for loop =', reverse_for_loop(input_str))
+    
+    
+    
+    
+    Reverse String using for loop = adoydE
