@@ -1,4 +1,4 @@
-program :-
+#program :-
 x,y=0,1
 
 while y<50:
@@ -6,5 +6,5 @@ while y<50:
     x,y = y,x+y
     
     
-Result :-    
+#Result :-    
     1 1 2 3 5 8 13 21 34 
